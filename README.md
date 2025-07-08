@@ -89,6 +89,8 @@ Puede usar la utilidad CHKDSK desde Windows y la unidad se analizará para detec
 
 Escriba chkdsk en el cuadro de búsqueda de la barra de tareas.
 
+![image](https://github.com/user-attachments/assets/790416b9-0e80-4d9b-b3d0-84ee27ed0ac7)
+
 Imagen de una barra de tareas con «check disk» escrito, y el usuario ha hecho clic en la aplicación de check disk y está resaltando la opción «Ejecutar como administrador».
 Haga clic con el botón derecho en chkdsk y seleccione Ejecutar como administrador.
 
@@ -100,17 +102,20 @@ El símbolo del sistema es una herramienta útil. Permite ejecutar comandos en W
 Este es el procedimiento para usar el Símbolo del sistema para comprobar el disco:
 
 Escriba cmd (o símbolo del sistema) en el cuadro de búsqueda de la barra de tareas.
-
+![image](https://github.com/user-attachments/assets/a4e0f6f7-4cd7-4625-b3d2-49fd7232670a)
 Imagen de una barra de tareas con «símbolo del sistema» escrito, y el usuario ha hecho clic en la aplicación de símbolo del sistema y está resaltando la opción «Ejecutar como administrador».
+
 Haga clic con el botón derecho en Símbolo del sistema y seleccione Ejecutar como administrador.
-
+![image](https://github.com/user-attachments/assets/9a4d9c8a-df3a-4f44-a556-ef3c5073b35d)
 Imagen del símbolo del sistema, con «chkdsk» escrito en la entrada.
+
 Escriba chkdsk y pulse la tecla Entrar. Este comando hará que la utilidad CHKDSK busque problemas sin realizar cambios.
-
+![image](https://github.com/user-attachments/assets/50924f7e-25f7-4c01-b4c5-775603fe3ff1)
 Escriba chkdsk y pulse Intro para que CHKDSK analice el disco para detectar problemas sin realizar cambios.
+
 Para ejecutar CHKDSK en otra unidad diferente de C, especifique el volumen justo después de chkdsk. Por ejemplo, compruebe su unidad D escribiendo chkdsk D: /f.
-
 Escriba chkdsk /r para que CHKDSK repare los archivos dañados, pero solo si se ha detectado un problema. Si en esta fase no hay problemas, no tiene que hacer nada más.
-
+![image](https://github.com/user-attachments/assets/660aab12-4bc4-4321-8b01-fdb167b103ab)
 Ejemplo de resultados tras la ejecución de chkdsk. Los resultados indican que no se han encontrado problemas.
+
 Lo mejor del Símbolo del sistema es que se utiliza de forma consistente en todos los sistemas operativos Windows. Tanto si su equipo es nuevo como si tiene 20 años, puede utilizar los mismos comandos, ya que es útil para aprender a ejecutar CHKDSK en Windows 10 o Windows 11.
