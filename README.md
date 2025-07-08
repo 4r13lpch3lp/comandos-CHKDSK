@@ -33,6 +33,7 @@ Estos comandos se ejecutarán automáticamente en la unidad activa que se muestr
 
 La unidad donde se aloja Windows (normalmente C) le pedirá que reinicie antes de que CHKDSK pueda ejecutarse. Para continuar, seleccione Y. Windows ejecutará CHKDSK justo después de reiniciarse.
 
+![image](https://github.com/user-attachments/assets/2aa5126c-945f-42f5-9f7f-291aebe28844)
 Imagen del símbolo del sistema con el comando adecuado para ejecutar CHKDSK en la unidad D. «chkdsk D: /f»
 
 ¿Qué hace chkdsk /r?
